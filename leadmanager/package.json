@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react-alert": "^7.0.3",
+    "react-alert-template-basic": "^1.0.2",
+    "react-transition-group": "^4.4.5"
+  }
+}
